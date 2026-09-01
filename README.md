@@ -2,6 +2,12 @@
 
 ChoiTimerは、Windows向けのコンパクトなタイマー／ストップウォッチです。通常表示とミニ表示を切り替えられ、常に最前面へ固定してデスクトップウィジェットのように利用できます。
 
+## ダウンロード
+
+最新版はこちらからダウンロードできます。
+
+[ChoiTimer v1.0.0 をダウンロード](https://github.com/Colours0/ChoiTimer/releases/latest)
+
 ## スクリーンショット
 
 ![通常表示](ChoiTimer-normal.png)
